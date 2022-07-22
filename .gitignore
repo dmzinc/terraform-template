@@ -1,0 +1,5 @@
+.idea
+.terraform
+modules/module1/.terraform
+modules/module2/.terraform
+.terraform.lock.hcl
